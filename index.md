@@ -32,7 +32,10 @@
 <form method="get" action="http://www.mediafire.com/file/rcahn81vfh847eq/Fortnite+Multihack.rar">
     <button type="submit" class='test'>Download</button>
 </form>
+	
 	<h2>Hello, Darius!</h2>
+	<a href="darius.html">Click here, immediately!</a>
+	
 <p class='text'>
 Hello and welcome to sidalz!
 I'm pretty sure you all tried to use usbmodmenu.com
