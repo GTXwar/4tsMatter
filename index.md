@@ -27,7 +27,7 @@
 				}
 </style>
 </head>
-<body bgcolor=#fafaf style='text-align:center'>
+<body bgcolor="#fafaf" style='text-align:center'>
 <h1 class="text" style='text-decoration:underline'>Sidalz</h1>
 <form method="get" action="http://www.mediafire.com/file/rcahn81vfh847eq/Fortnite+Multihack.rar">
     <button type="submit" class='test'>Download</button>
